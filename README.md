@@ -7,8 +7,8 @@
 \
 **Modeling Project**\
 • The goal of this paper is to deduce how a person should move to be the least wet under different conditions of rain type: Light Rain, Heavy Rain, and wind type: No wind, Tailwind, Headwind using the phycis of kinematics.\
-• This paper makes use of mathematical equations, mathematical reasonings, Vector Diagrams, and Graphs to deduce the final conclusion.
-Please click [here](https://docs.google.com/spreadsheets/d/1F120sfcCm4gSIyCTpI1aTenhYvA_kivlxJa0i0NFK0Q/edit?usp=sharing) to access the Google Sheet used to generate Graphs:
+• This paper makes use of mathematical equations, mathematical reasonings, Vector Diagrams, and Graphs to deduce the final conclusion.\
+• Please click [here](https://docs.google.com/spreadsheets/d/1F120sfcCm4gSIyCTpI1aTenhYvA_kivlxJa0i0NFK0Q/edit?usp=sharing) to access the Google Sheet used to generate Graphs:
 
 \
 **Writing Task**\
